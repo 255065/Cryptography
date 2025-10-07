@@ -1,0 +1,13 @@
+# Ignore build output and OS files
+crypto
+main
+*.o
+*.out
+*.exe
+*.log
+.DS_Store
+*.swp
+*.swo
+*.tmp
+# VSCode settings
+.vscode/
